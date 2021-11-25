@@ -1,0 +1,28 @@
+body {
+    background: var(--background)
+}
+
+iframe {
+    border: 0;
+}
+
+#single-panel {
+    width: 100%;
+    height: 478px;
+}
+
+#slider {
+    width: 100%;
+    height: 513px;
+}
+
+@media screen and (min-width: 798px) {
+    #single-panel {
+        height: 282px;
+    }
+
+    #slider {
+        height: 317px;
+    }
+}
+
