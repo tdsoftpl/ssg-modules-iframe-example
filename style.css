@@ -8,21 +8,21 @@ iframe {
 
 #single-panel {
     width: 100%;
-    height: 478px;
+    height: 550px;
 }
 
 #slider {
     width: 100%;
-    height: 513px;
+    height: 585px;
 }
 
 @media screen and (min-width: 798px) {
     #single-panel {
-        height: 282px;
+        height: 354px;
     }
 
     #slider {
-        height: 317px;
+        height: 389px;
     }
 }
 
